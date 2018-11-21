@@ -1,7 +1,7 @@
 .. _atom_conf:
 
 -------------
-Usage of Atom
+Atom的使用
 -------------
 
 This part of the document is how to use Atom to create documentation/workshops. The steps to be taken are:
