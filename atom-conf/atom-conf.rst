@@ -4,24 +4,24 @@
 Atom的使用
 -------------
 
-This part of the document is how to use Atom to create documentation/workshops. The steps to be taken are:
+这部分文档关于如何用Atom生成文档/workshop。需要如下步骤：
 
-#. Clone the templates from the GitHub organisation page using **git** command line
+#. 从GitHub组织页面使用**git** 命令行克隆模板
 
-#. Open Atom and create the document
+#. 打开 Atom 创建文档
 
-#. Save the document locally
+#. 本地保存文档
 
-#. Build the document so you can see the outcome and how the page look like
+#. 构建文档，你可以看见结果和页面的外观
 
-#. Commit the changes locally
+#. 确认本地变化
 
-#. Push the data to the personal GitHub location
+#. 把数据推到个人的GitHub站点
 
-#. Use git pull request to upload the data into the organisational GitHub location
+#. 使用git pull 请求上传数据到GitHub的组织站点
 
 
-Clone the templates
+克隆模板
 +++++++++++++++++++
 
 Create a directory (project) in a location of choice on your machine. The next step is dependent on the way you want to run the **git** command. The easiest way is to open a command line or terminal session and go too the location for your document. The below screenshots are an example from a **Mac O/S**. The location used for this document is **Documents/github/test**.
