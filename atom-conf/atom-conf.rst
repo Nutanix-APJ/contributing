@@ -24,7 +24,7 @@ Atom的使用
 克隆模板
 +++++++++++++++++++
 
-Create a directory (project) in a location of choice on your machine. The next step is dependent on the way you want to run the **git** command. The easiest way is to open a command line or terminal session and go too the location for your document. The below screenshots are an example from a **Mac O/S**. The location used for this document is **Documents/github/test**.
+在你的机器的某个可选位置生成一个目录（项目）directory (project)。下一步取决于你想运行的**git** 命令。最简单的方法是打开一个命令行或终端回话，然后 The easiest way is to open a command line or terminal session and go too the location for your document. The below screenshots are an example from a **Mac O/S**. The location used for this document is **Documents/github/test**.
 
 The below screenshot shows the content of the location on which the templates are stored.
 
