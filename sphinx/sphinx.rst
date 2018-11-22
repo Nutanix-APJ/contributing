@@ -1,24 +1,24 @@
 .. _installsphinx:
 
 --------------
-Install Sphinx
+安装 Sphinx
 --------------
 
-Why install Sphinx local?
+为什么在本地安装Sphinx?
 +++++++++++++++++++++++++
 
-To check your created documents for Sphinx, and to be pushed on to the nutanixworkshop.com, you can install Sphinx compiler.
+检查你为Sphinx创建的文档，并上传到nutanixworkshop.com，你可以安装Sphinx编译器。
 
-Installation
+安装
 ++++++++++++
 
-.. note:: This document assumes the pre-requisite package Python has been installed. If not, use: https://docs.python-guide.org/starting/installation/
+.. note:: 本文档假定已安装了Python预制包。如果没有，请使用: https://docs.python-guide.org/starting/installation/
 
-1. Open a commandline
+1. 打开一个命令行
 
-2. Uses the pip install command to install the need sphinx and depended tools
+2. 使用pip 安装命令安装需要的sphinx和依赖工具
 
-Run the following commands (https://www.sphinx-doc.org/en/master/usage/installation.html#installation-from-pypi):
+运行下面的命令 (https://www.sphinx-doc.org/en/master/usage/installation.html#installation-from-pypi):
 
 * pip install sphinx
 
@@ -29,4 +29,4 @@ Run the following commands (https://www.sphinx-doc.org/en/master/usage/installat
 * pip install sphinx_fontawesome
 
 
-After this installation, you can use the command sphinx-build to generate the HTML version of the created pages. To understand what Sphinx does, have a look here: https://youtu.be/oJsUvBQyHBs. As you have already "copied" the template, you do not have to run the ``sphinx-quickstart`` command. You can go directly to run ``sphinx-build`` with parameters.
+这个安装结束后，你可以使用sphixn制定的命令生成创建页面的HTML版本。想了解Sphinx是做什么的，请参看: https://youtu.be/oJsUvBQyHBs. 鉴于你已经“拷贝”了模板，就不必运行``sphinx-quickstart`` 命令了。你可以直接运行带参数的``sphinx-build`` 。
