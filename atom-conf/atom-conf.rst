@@ -24,28 +24,28 @@ Atom的使用
 克隆模板
 +++++++++++++++++++
 
-在你的机器的某个可选位置生成一个目录（项目）directory (project)。下一步取决于你想运行的**git** 命令。最简单的方法是打开一个命令行或终端回话，然后 The easiest way is to open a command line or terminal session and go too the location for your document. The below screenshots are an example from a **Mac O/S**. The location used for this document is **Documents/github/test**.
+在你的机器的某个可选位置生成一个目录（项目）directory (project)。下一步取决于你想运行的**git** 命令。最简单的方法是打开一个命令行或终端回话，然后去向文档的位置。下面截图是从**Mac O/S**看到的一个例子.这个文档使用的地址是**Documents/github/test**。
 
-The below screenshot shows the content of the location on which the templates are stored.
+下方截图显示存放模板的位置内容。
 
 .. figure:: images/1.png
   :width: 600px
 
-To get these templates onto our machine the **git** command will be used to clone the data into the directory created earlier (Documents/github/test).
+为了在我们的机器上获得模板，需要使用 **git** 命令来克隆数据到之前创建的目录(Documents/github/test).
 
-Steps to be taken:
+步骤如下:
 
-#. Open de command line/terminal
+#. 打开命令行/终端
 
-#. cd to the location where the created directory is
+#. cd 到创建目录的位置
 
-#. run the command **git clone https://github.com/nutanixworkshops/workshop-repo-template**
+#. 运行命令 **git clone https://github.com/nutanixworkshops/workshop-repo-template**
 
-After this command (see the screenshot below) you will have the data local on the machine in a subdirectory in the directory you are in.
+这些命令后（看下面截图）你将在当前目录的子文件夹里获得本地的数据
 
 .. figure:: images/2.png
 
-Copy the cloned *workshop-repo-template* to a new directory or rename it. By copying you will have the templates available all the time for new documents.
+复制已克隆的 *workshop-repo-template* 到新的目录或重命名。to a new directory or rename it. By copying you will have the templates available all the time for new documents.
 
 
 .. note:: If changes have happened, you can check that by repeating the first two steps and run the command **git pull https://github.com/nutanixworkshops/workshop-repo-template** to get the latest changes if there are any.
@@ -152,7 +152,7 @@ An example of such a file is shown below:
 Commit the data
 +++++++++++++++
 
-After you have saved and the data looks quite good, you have to commit the changes that have been made. To do this, select **Packages -> GitHub -> Toggle Git Tab** (or use the hotkeys).
+当保存后数据看起来合适的话，你需要确定该变化。需要选择 **Packages -> GitHub -> Toggle Git Tab** (或使用热键).
 
 .. figure:: images/4b.png
   :width: 300px
