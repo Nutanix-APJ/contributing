@@ -45,14 +45,13 @@ Atom的使用
 
 .. figure:: images/2.png
 
-复制已克隆的 *workshop-repo-template* 到新的目录或重命名。to a new directory or rename it. By copying you will have the templates available all the time for new documents.
+复制已克隆的 *workshop-repo-template* 到新的目录或重命名。通过复制你始终可得到新文档需要的的模板。
 
 
-.. note:: If changes have happened, you can check that by repeating the first two steps and run the command **git pull https://github.com/nutanixworkshops/workshop-repo-template** to get the latest changes if there are any.
+.. note:: 如果发生改变，你可通过反复前两步和运行命令**git pull https://github.com/nutanixworkshops/workshop-repo-template** 来检查最新的发生的改变。
+当你创建完工作所在的目录/创建文档After you have created the directory in which you want to work/create the documentation and have copied the template files in, copy a file called .gitignore in the root of the working directory. This will make sure that not needed files are uploaded to the GitHub server. An example is .DS_Dstore or thumbs.ini. Download the file :download:`.gitignore file <../.gitignore>`. Change the downloaded **txt** file to .gitignore and place in the root of the project.
 
-After you have created the directory in which you want to work/create the documentation and have copied the template files in, copy a file called .gitignore in the root of the working directory. This will make sure that not needed files are uploaded to the GitHub server. An example is .DS_Dstore or thumbs.ini. Download the file :download:`.gitignore file <../.gitignore>`. Change the downloaded **txt** file to .gitignore and place in the root of the project.
-
-Start using Atom
+开始使用Atom
 ++++++++++++++++
 
 After the installation start Atom. After it has started it will show roughly like the below screen.
