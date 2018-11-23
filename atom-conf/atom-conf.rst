@@ -155,26 +155,26 @@ Atom的使用
 .. figure:: images/4b.png
   :width: 300px
 
-When the screen opens, on the lefthand side of the Atom screen you will find colorized line(s) with data. These lines are what will be done on the commit ("write") action local. It will also be the actions that will be produced in the location on GitHub.
+当屏幕打开，左手边Atom屏幕你会找到带数据的彩色线。这些线表示在本地确认（“写”）后执行的内容。这也是本地GitHub需要执行的内容。 
 
 .. figure:: images/4c.png
 
-By clicking on the Stage All text (top right corner), all actions are to be committed. Now you can select the one you don't want, by selecting them and right-click and select **Discard Changes**.
+通过点击Stage All text (右上角), 所有的操作都被确认。现在你可以选择你不需要的部分，通过选中和右击并选择 **Discard Changes**.
 
 .. figure:: images/4d.png
   :width: 400px
 
-如果你想查看改变，可以点击文件。如果所有的变化都ok，提供一个确认信息并点击If you are interested in the changes, click on the file and you will see what will happen. Are all the changes ok, then provide a Commit message and click on the **Commit to master** button.
+如果你想查看改变，可以点击文件。如果所有的变化都ok，提供一个确认信息并点击 **Commit to master** 按钮.
 
 .. figure:: images/4e.png
   :width: 400px
 
-After this the status bar at the bottom of the git pane should show **Push 1**.
+之后git面板下部的状态条会显示 **Push 1**.
 
 .. figure:: images/4f.png
   :width: 400px
 
-Now we are all set to push the data towards the GitHub personal part. Click on the **Push 1** button to upload the data.
+现在我们准备好把数据推送到GitHub个人站点. 点击 **Push 1** 按钮上传数据。
 
 .. figure:: images/4g.png
   :width: 400px
