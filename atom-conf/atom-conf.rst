@@ -18,7 +18,7 @@ Atom的使用
 
 #. 把数据推到个人的GitHub站点
 
-#. 使用git pull 请求上传数据到organisitional GitHub
+#. 使用git pull 请求上传数据到organizational GitHub
 
 
 克隆模板
