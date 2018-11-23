@@ -2,7 +2,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Pre-requirements
+  :caption: 预先要求
   :name: _pre-reqs
   :hidden:
 
@@ -10,7 +10,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Installation
+  :caption: 安装
   :name: _install
   :hidden:
 
@@ -19,7 +19,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Usage
+  :caption: 使用
   :name: _config
   :hidden:
 
