@@ -14,7 +14,7 @@ Atom 安装
 
 安装完成后启动Atom并更改首选项。
 
-1.  Go to **+ Install** and type in the "search bar" github-plus前往**+ Install** 并输入"search bar" github-plus
+1.  前往 **+ Install** 并在“搜索栏”输入github-plus
 
 .. figure:: images/1.png
   :width: 200px
@@ -22,7 +22,7 @@ Atom 安装
 .. figure:: images/2.png
   :width: 400px
 
-2. 单击** Packages **按钮，应显示github-plus软件包的下面屏幕。
+2. 单击** Packages**按钮，应显示github-plus软件包的下面屏幕。
 
 .. figure:: images/3.png
   :width: 400px
