@@ -29,34 +29,34 @@
 .. _overview:
 
 -------------------------------
-Installation of Atom and Sphinx
+安装 Atom 和 Sphinx
 -------------------------------
 
-This document describes the way of installing to needed tools to create workshop content in the sphinx format called ReStructredText (RST). Using this method it is possible to have the content “separated” from type of document. In the first place we will use the rst file as a source and have a sphinx compiler on the internet to create the HTML pages that we show in the workshops.
+本文档描述了安装所需工具的方式，以创建名为ReStructredText（RST）的sphinx格式的workshop内容。 使用此方法可以使内容与文档类型“分离”。 首先，我们将使用rst文件作为源，并在互联网上使用sphinx编译器来创建我们在workshop中显示的HTML页面。
 
-.. note:: To have Atom integrate with GitHub, make sure you have an account there.
+.. note:: 要使Atom 集成到 GitHub, 确保你先有一个账号。
 
-The installation process overview
+安装过程概览
 ---------------------------------
 
-To get to the right level of tooling to create the workshops and push them onto GitHub the following steps will be taken:
+要获得正确的工具来创建workshop并将其推送到GitHub，将采取以下步骤：
 
-#. Prerequirements
+#. 预先需求
 
-#. Download of Atom (this is an example tool for creating .rst files. Reason for using this product is that it is a) free and b) available on most platforms (Mac, Windows and Linux)). There are other editor tools avail as well, but for the ease of use we have chosen this product.
+#. 下载Atom （这是用于创建.rst文件的示例工具。使用该产品的原因是a）免费且b）可在大多数平台（Mac，Windows和Linux）上使用。 还有其他编辑器工具，但为了易于使用，我们选择了这个产品。
 
-#. Installation of Atom
+#. 安装Atom
 
-#. Configuration of Atom
+#. 配置Atom
 
-#. (Optional) Installation of Sphinx. Optional is Sphinx installation and configuration. Having Sphinx installed on your machine makes it possible to generate the HTML pages based on your local content offline to see if everything looks as you intended it to be.
+#. (可选) 安装Sphinx. 可选的是Sphinx安装和配置。 在你的计算机上安装Sphinx后，你可以根据离线本地内容生成HTML页面，以查看所有内容是否符合您的预期。
 
-#. Integration with GitHub
+#. 与GitHub集成
 
-#. Getting the needed templates from GitHub
+#. 从GitHub获得需要的模板
 
-#. Create a document using the templates
+#. 通过模板生成文件
 
-#. Save the created document and run commits and push towards personal GitHub
+#. 保存创建的文档并运行确认并推送到个人GitHub
 
-#. Pull the created document towards the Organisational GitHub
+#. 将创建的文档拉向Organizational GitHub
