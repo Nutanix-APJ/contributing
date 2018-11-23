@@ -1,33 +1,33 @@
 .. _pre_reqs:
 
 --------
-Overview
+概览
 --------
 
-To have the installation ready to create a workshop, you need to have the following pre-requirements ready:
+要准备好安装以创建workshop，您需要准备好以下预先要求：
 
-1. Installation of Pyhton compiler
-2. Installtion of git application
-3. a GitHub account for pulling and pulling data
+1. 安装Pyhton 编译器
+2. 安装git应用
+3. 一个GitHub账号用来拉数据
 
 
-Installing python compiler
+安装python 编译器
 ++++++++++++++++++++++++++
 
-As the installation is dependent on the O/S and very well documented, you can use google as a staring point to search. MacOS and most Linux distribution has Python installed by default. Only Windows need to have Python installed in a separate way.
-An example of the installation could be: https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
+由于安装依赖于O/S并文档完备, 你可以用google搜索。MacOS 和大部分Linux发布版本默认安装了Python。 只有Windows需要用另一种方法单独安装Python。
+一个安装示例如下: https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
 
-Install the git application
+安装git
 +++++++++++++++++++++++++++
 
-As the installation is dependent on the O/S and very well documented, you can use google as a staring point to search. An example of installation for the O/S of choice can be found here https://www.atlassian.com/git/tutorials/install-git. 
+由于安装依赖于O/S并文档完备, 你可以用google搜索。你可以在这里找到根据O/S选择的安装的例子 https://www.atlassian.com/git/tutorials/install-git. 
 
 
-Create a GitHub account
+生成GitHub用户
 +++++++++++++++++++++++
 
-As the information will be stored on the GitHub cloud you need to have an account so you and the Technical Enablement Team can see who has uploaded and changed what.
+由于信息会存储到GitHub cloud 你需要有一个账户使得你和Technical Enablement 团队可以看见谁上传和改变了什么数据。
 
-Go to https://github.com and create an account.
+去 https://github.com 生成一个账户。
 
 .. figure:: images/1.png
