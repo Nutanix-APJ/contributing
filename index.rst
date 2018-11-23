@@ -10,7 +10,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption:  安装
+  :caption: 安装
   :name: _install
   :hidden:
 
@@ -19,7 +19,7 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption:  使用
+  :caption: 使用
   :name: _config
   :hidden:
 
