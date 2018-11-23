@@ -1,21 +1,20 @@
 .. _atom_install:
 
 -----------------
-Atom Installation
+Atom 安装
 -----------------
 
-Goto https://atom.io/. The webpage will show you the version that is supported for your O/S.
-Download and install the software package by following the screen and wizards you might encounter.
-For an example for installing Atom on Windows 10, following this video: https://www.youtube.com/watch?v=nshxC0YO_X0
+去往 https://atom.io/. 
 
+该网页将显示您的操作系统支持的版本。按照屏幕和向导下载并安装软件包。
+有关在Windows 10上安装Atom的示例，请遵循以下视频： https://www.youtube.com/watch?v=nshxC0YO_X0
 
-
-Initial Configuration
+初始化配置
 +++++++++++++++++++++
 
-After the installation start Atom and change the preferences.
+安装完成后启动Atom并更改首选项。
 
-1. Go to **+ Install** and type in the "search bar" github-plus
+1. 前往**+ Install** 并输入"search bar" github-plus
 
 .. figure:: images/1.png
   :width: 200px
@@ -23,26 +22,26 @@ After the installation start Atom and change the preferences.
 .. figure:: images/2.png
   :width: 400px
 
-Click on the **Packages** button and the below screen should be shown for the github-plus packages.
+2. 单击** Packages **按钮，应显示github-plus软件包的下面屏幕。
 
 .. figure:: images/3.png
   :width: 400px
 
-Click on the **Install** button to have the package installed.
+单击** Install **按钮以安装软件包。
 
-Have a look at this YouTube video to get some idea on what you have done just now: https://www.youtube.com/watch?v=TzKi6ZZtIAo.
+看看这个YouTube视频，了解您刚才所做的事情: https://www.youtube.com/watch?v=TzKi6ZZtIAo.
 
-Repeat these steps for the following extra packages
+对以下额外包重复这些步骤
 
 1. Git-plus
 
 .. figure:: images/4.png
   :width: 400px
 
-Also have a look at the YouTube video: https://www.youtube.com/watch?v=7Id1_VfbEKo to have some more idea on git commands directly from the Atom interface.
+你也可以看看YouTube 视频了解直接从Atom界面使用git命令: https://www.youtube.com/watch?v=7Id1_VfbEKo 
 
-2. Language-sphinx
+2. 语言-sphinx
 
-After the installation of the packages, on the righthand corner, extra possible actions (like a restart of Atom) will be shown.
+安装软件包后，在右侧角落将显示额外的可能操作（如重启Atom）。
 
-You can now start using the Atom and have the colour syntaxing for **.rst** file available for the Sphinx Language. This language is what we use to “dynamically” have webpages created on http://www.nutanixworkshops.com.
+你现在可以开始使用Atom，并为用于Sphinx语言的**.rst **文件提供各种语法。 这种语言是我们用来“动态”创建网页的方法http://www.nutanixworkshops.com.
