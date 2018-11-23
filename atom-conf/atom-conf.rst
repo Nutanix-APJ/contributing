@@ -49,28 +49,28 @@ Atom的使用
 
 
 .. note:: 如果发生改变，你可通过反复前两步和运行命令**git pull https://github.com/nutanixworkshops/workshop-repo-template** 来检查最新的发生的改变。
-当你创建完工作所在的目录/创建文档After you have created the directory in which you want to work/create the documentation and have copied the template files in, copy a file called .gitignore in the root of the working directory. This will make sure that not needed files are uploaded to the GitHub server. An example is .DS_Dstore or thumbs.ini. Download the file :download:`.gitignore file <../.gitignore>`. Change the downloaded **txt** file to .gitignore and place in the root of the project.
+当你创建完工作所在的目录/创建文档并在之中复制了模板文件，复制一个在工作根目录的叫做.gitignore文档。这将会确保没有不必要的文档上传到GitHub服务器。一个例子是.DS_Dstore 或 thumbs.ini. 下载文档 :download:`.gitignore file <../.gitignore>`. 改变下载的 **txt** 文档到 .gitignore 将它放置于项目的根目录。
 
 开始使用Atom
 ++++++++++++++++
 
-After the installation start Atom. After it has started it will show roughly like the below screen.
+安装后启动Atom. 启动后会显示如下屏幕视图。
 
 .. figure:: images/5.png
 
-You can close the panes and select what you want to do with them in the future/next start.
-To open the document, click on file -> Open and navigate to your directory where you have your index.rst file. Open this file and you should see a pane/tab with the example file.
+你可以关闭面板并选择你将要做的/下次启动的动作。
+打开文档，点击文件 -> 打开并导航到index.rst 文档所在的目录. 打开这个文档你会看见一个带有示例文件的面板/标签。
 
 Make the changes so it will show your documentation. To have a quick reference document, use http://docutils.sourceforge.net/docs/user/rst/quickref.html as and example. Otherwise search google.com on ReStructuredTest reference.
 
-Saving the documents
+保存文档
 ++++++++++++++++++++
 
-After you have created your document and before you can build the changes into a HTML layout, you need to save the document. Saving the document makes it possible afterwards to Commit, Push and build the documentation.
+创建文档之后，在你可以在HTML页面进行修改之前，你需要保存文档。保存文档使之后的确认、推送和创建文档成为可能。
 
-Saving the documentation is very easy, just save in Atom as you are used to save documents as in Word or other tools you use. Click **File -> Save**, or the hot key to save the data.
+保存文档非常简单，只需要在Atom里保存即可，如你在Word或其他工具里一样。点击 **File -> Save**, 或热键保存数据。
 
-(Optional) Build the data
+(可选) Build the data
 +++++++++++++++++++++++++
 
 Building data means that a tool will translate the create document (.rst file) into HTMl pages. To build the HTML pages the command **sphinx-build** will be run from the command line/terminal session. This means the sphinx packages have been installed as mentioned in pre-requirements part of this workshop.
