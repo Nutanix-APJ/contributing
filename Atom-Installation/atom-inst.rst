@@ -14,7 +14,7 @@ Atom 安装
 
 安装完成后启动Atom并更改首选项。
 
-1. 前往**+ Install** 并输入"search bar" github-plus
+1.  Go to **+ Install** and type in the "search bar" github-plus前往**+ Install** 并输入"search bar" github-plus
 
 .. figure:: images/1.png
   :width: 200px
