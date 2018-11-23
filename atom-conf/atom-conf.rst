@@ -61,7 +61,7 @@ Atom的使用
 你可以关闭面板并选择你将要做的/下次启动的动作。
 打开文档，点击文件 -> 打开并导航到index.rst 文档所在的目录. 打开这个文档你会看见一个带有示例文件的面板/标签。
 
-Make the changes so it will show your documentation. To have a quick reference document, use http://docutils.sourceforge.net/docs/user/rst/quickref.html as and example. Otherwise search google.com on ReStructuredTest reference.
+之上做改变以显示你自己的文档。请参考案例 http://docutils.sourceforge.net/docs/user/rst/quickref.html 。或者查询 google.com on ReStructuredTest 参考文档。
 
 保存文档
 ++++++++++++++++++++
@@ -70,38 +70,37 @@ Make the changes so it will show your documentation. To have a quick reference d
 
 保存文档非常简单，只需要在Atom里保存即可，如你在Word或其他工具里一样。点击 **File -> Save**, 或热键保存数据。
 
-(可选) Build the data
+(可选) 构建数据
 +++++++++++++++++++++++++
 
-Building data means that a tool will translate the create document (.rst file) into HTMl pages. To build the HTML pages the command **sphinx-build** will be run from the command line/terminal session. This means the sphinx packages have been installed as mentioned in pre-requirements part of this workshop.
+构建数据是指通过工具将创建的文档 (.rst file)转换为HTMl页面。构建HTML页面需要在命令行/终端对话运行 **sphinx-build** 。这意味着sphinx 包如前部分内容所述已经安装了。
 
-Steps to take to get a build ready:
+下面是所需步骤:
 
-#. Open the command line/terminal session
+#. 打开命令行/终端回话
 
-#. Change to the root of the directory of the documentation you want to create. In my example Documents/test/test (I have copied the workshop-repo-template).
+#. 改到你要创建文档的根目录。这里举例 Documents/test/test (我拷贝了 workshop-repo-template).
 
 .. figure:: images/3.png
   :width: 300px
 
-#. Run the **sphinx-build** command to create the HTML pages. The command is **sphinx-build . _build**. A small explenation:
+#. 运行 **sphinx-build** 命令来创建HTML 页面。命令是 **sphinx-build . _build**. 解释如下:
 
-* The **.** stands for the current directory, search for a rst file and follow the links in the file.
+*  **.** 代表当前目录, 查找 rst 文档并依据文件里的链接。
 
-* **_build** stands for the output folder of the HTML pages.
-
+* **_build** 代表输出的HTML页面文件夹。
 .. figure:: images/4.png
   :width: 400px
 
-#. Test the layout in the browser
+#. 在浏览器测试布局
 
 .. figure:: images/4a.png
 
-Optional .gitignore file
+可选 .gitignore 文件
 ++++++++++++++++++++++++
 
-By adding a .gitignore file in the root of your directory, you can tell git to NOT push the files and directories into the Repository on GitHub.
-An example of such a file is shown below:
+在根目录增加 .gitignore 文件，你可以告诉git不要推送文件和目录到GitHub的容器。
+示例文件显示如下:
 
 ::
 
@@ -148,7 +147,7 @@ An example of such a file is shown below:
   _build
   build
 
-Commit the data
+确认数据
 +++++++++++++++
 
 当保存后数据看起来合适的话，你需要确定该变化。需要选择 **Packages -> GitHub -> Toggle Git Tab** (或使用热键).
@@ -165,7 +164,7 @@ By clicking on the Stage All text (top right corner), all actions are to be comm
 .. figure:: images/4d.png
   :width: 400px
 
-If you are interested in the changes, click on the file and you will see what will happen. Are all the changes ok, then provide a Commit message and click on the **Commit to master** button.
+如果你想查看改变，可以点击文件。如果所有的变化都ok，提供一个确认信息并点击If you are interested in the changes, click on the file and you will see what will happen. Are all the changes ok, then provide a Commit message and click on the **Commit to master** button.
 
 .. figure:: images/4e.png
   :width: 400px
