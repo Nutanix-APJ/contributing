@@ -4,7 +4,7 @@
 Atom 安装
 -----------------
 
-去往 https://atom.io/. 
+前往 https://atom.io/. 
 
 该网页将显示您的操作系统支持的版本。按照屏幕和向导下载并安装软件包。
 有关在Windows 10上安装Atom的示例，请遵循以下视频： https://www.youtube.com/watch?v=nshxC0YO_X0
