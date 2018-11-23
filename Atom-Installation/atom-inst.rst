@@ -22,12 +22,12 @@ Atom 安装
 .. figure:: images/2.png
   :width: 400px
 
-2. 单击**Packages**按钮，应显示github-plus软件包的下面屏幕。
+2. 单击 **Packages** 按钮，应显示github-plus软件包的下面屏幕。
 
 .. figure:: images/3.png
   :width: 400px
 
-单击**Install**按钮以安装软件包。
+单击 **Install** 按钮以安装软件包。
 
 看看这个YouTube视频，了解您刚才所做的事情: https://www.youtube.com/watch?v=TzKi6ZZtIAo.
 
